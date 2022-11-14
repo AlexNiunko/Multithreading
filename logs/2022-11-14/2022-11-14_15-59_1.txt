@@ -1,0 +1,9 @@
+2022-11-14 15:59:34 [Thread-4] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread id created.Current load 
+2022-11-14 15:59:34 [Thread-6] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread id created.Current load 
+2022-11-14 15:59:34 [Thread-3] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread id created.Current load 
+2022-11-14 15:59:34 [Thread-2] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread id created.Current load 
+2022-11-14 15:59:34 [Thread-1] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread id created.Current load 
+2022-11-14 15:59:34 [Thread-8] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread id created.Current load 
+2022-11-14 15:59:34 [Thread-5] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread id created.Current load 
+2022-11-14 15:59:34 [Thread-0] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread id created.Current load 
+2022-11-14 15:59:34 [Thread-7] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread id created.Current load 

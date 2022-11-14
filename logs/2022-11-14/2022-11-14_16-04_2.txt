@@ -1,0 +1,10 @@
+2022-11-14 16:04:16 [Thread-0] INFO  com.epam.multithreading.entity.Port [[add]] - The ship entered the port
+2022-11-14 16:04:16 [Thread-5] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-5
+2022-11-14 16:04:16 [Thread-6] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-6
+2022-11-14 16:04:16 [Thread-2] INFO  com.epam.multithreading.entity.Port [[add]] - The ship entered the port
+2022-11-14 16:04:16 [Thread-1] INFO  com.epam.multithreading.entity.Port [[add]] - The ship entered the port
+2022-11-14 16:04:16 [Thread-7] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-7
+2022-11-14 16:04:16 [Thread-8] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-8
+2022-11-14 16:04:16 [Thread-3] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-3
+2022-11-14 16:04:16 [Thread-4] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-4
+2022-11-14 16:04:16 [Thread-5] INFO  com.epam.multithreading.entity.Port [[add]] - The ship entered the port

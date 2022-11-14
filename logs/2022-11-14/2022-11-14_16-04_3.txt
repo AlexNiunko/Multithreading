@@ -1,0 +1,10 @@
+2022-11-14 16:04:16 [Thread-4] INFO  com.epam.multithreading.entity.Port [[add]] - The ship entered the port
+2022-11-14 16:04:16 [Thread-6] INFO  com.epam.multithreading.entity.Port [[add]] - All piers are busy
+2022-11-14 16:04:16 [Thread-3] INFO  com.epam.multithreading.entity.Port [[add]] - All piers are busy
+2022-11-14 16:04:16 [Thread-8] INFO  com.epam.multithreading.entity.Port [[add]] - All piers are busy
+2022-11-14 16:04:16 [Thread-7] INFO  com.epam.multithreading.entity.Port [[add]] - All piers are busy
+2022-11-14 16:04:17 [Thread-2] INFO  com.epam.multithreading.entity.Pearce [[load]] - The pier is fully loaded 
+2022-11-14 16:04:17 [Thread-2] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:04:17 [Thread-1] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:04:17 [Thread-0] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:04:17 [Thread-5] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed

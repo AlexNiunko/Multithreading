@@ -1,0 +1,9 @@
+2022-11-14 17:07:30 [Thread-3] INFO  com.epam.multithreading.entity.Ship [[reload]] - The ship Thread-3 is unloaded
+2022-11-14 17:08:08 [Thread-3] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-3
+2022-11-14 17:08:08 [Thread-2] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-2
+2022-11-14 17:08:08 [Thread-1] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-1
+2022-11-14 17:08:08 [Thread-0] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-0
+2022-11-14 17:08:08 [Thread-0] INFO  com.epam.multithreading.entity.Port [[add]] - The ship entered the port Thread-0
+2022-11-14 17:08:08 [Thread-1] INFO  com.epam.multithreading.entity.Port [[add]] - The ship entered the port Thread-1
+2022-11-14 17:08:08 [Thread-3] INFO  com.epam.multithreading.entity.Port [[add]] - All piers are busy
+2022-11-14 17:08:08 [Thread-2] INFO  com.epam.multithreading.entity.Port [[add]] - All piers are busy

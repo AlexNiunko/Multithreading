@@ -1,0 +1,9 @@
+2022-11-14 17:07:30 [Thread-3] INFO  com.epam.multithreading.entity.Port [[add]] - All piers are busy
+2022-11-14 17:07:30 [Thread-0] INFO  com.epam.multithreading.entity.Port [[add]] - All piers are busy
+2022-11-14 17:07:30 [Thread-2] INFO  com.epam.multithreading.entity.Ship [[takePearce]] - Ship Thread-2 took pier number 1
+2022-11-14 17:07:30 [Thread-2] INFO  com.epam.multithreading.entity.Ship [[reload]] - The ship Thread-2 is unloaded
+2022-11-14 17:07:30 [Thread-5] INFO  com.epam.multithreading.entity.Ship [[takePearce]] - Ship Thread-5 took pier number 0
+2022-11-14 17:07:30 [Thread-5] INFO  com.epam.multithreading.entity.Ship [[reload]] - The ship Thread-5 is unloaded
+2022-11-14 17:07:30 [Thread-0] INFO  com.epam.multithreading.entity.Ship [[takePearce]] - Ship Thread-0 took pier number 1
+2022-11-14 17:07:30 [Thread-0] INFO  com.epam.multithreading.entity.Ship [[reload]] - The ship Thread-0 is unloaded
+2022-11-14 17:07:30 [Thread-3] INFO  com.epam.multithreading.entity.Ship [[takePearce]] - Ship Thread-3 took pier number 0

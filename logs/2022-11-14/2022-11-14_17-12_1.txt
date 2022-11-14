@@ -1,0 +1,10 @@
+2022-11-14 17:08:08 [Thread-1] INFO  com.epam.multithreading.entity.Ship [[takePearce]] - Ship Thread-1 took pier number 1
+2022-11-14 17:08:08 [Thread-1] INFO  com.epam.multithreading.entity.Ship [[reload]] - The ship Thread-1 is unloaded
+2022-11-14 17:08:08 [Thread-2] INFO  com.epam.multithreading.entity.Ship [[takePearce]] - Ship Thread-2 took pier number 0
+2022-11-14 17:08:08 [Thread-3] INFO  com.epam.multithreading.entity.Ship [[reload]] - The ship Thread-3 is unloaded
+2022-11-14 17:08:08 [Thread-0] INFO  com.epam.multithreading.entity.Ship [[takePearce]] - Ship Thread-0 took pier number 0
+2022-11-14 17:08:08 [Thread-0] INFO  com.epam.multithreading.entity.Ship [[takePearce]] - Ship Thread-0 took pier number 1
+2022-11-14 17:12:08 [Thread-2] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-2
+2022-11-14 17:12:08 [Thread-0] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-0
+2022-11-14 17:12:08 [Thread-3] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-3
+2022-11-14 17:12:08 [Thread-1] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-1

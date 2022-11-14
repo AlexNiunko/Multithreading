@@ -1,0 +1,9 @@
+2022-11-14 16:08:20 [Thread-2] INFO  com.epam.multithreading.entity.Pearce [[load]] - The pier is fully loaded Thread-2
+2022-11-14 16:08:20 [Thread-0] INFO  com.epam.multithreading.entity.Pearce [[load]] - The pier is fully loaded Thread-0
+2022-11-14 16:08:20 [Thread-0] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:08:20 [Thread-1] INFO  com.epam.multithreading.entity.Pearce [[load]] - The pier is fully loaded Thread-1
+2022-11-14 16:08:20 [Thread-1] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:08:20 [Thread-2] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:08:20 [Thread-4] INFO  com.epam.multithreading.entity.Pearce [[load]] - The pier is fully loaded Thread-4
+2022-11-14 16:08:20 [Thread-5] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:08:20 [Thread-4] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed

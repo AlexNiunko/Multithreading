@@ -1,0 +1,9 @@
+2022-11-14 16:02:48 [Thread-3] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:02:48 [Thread-8] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:02:49 [Thread-1] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:02:49 [Thread-7] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:02:49 [Thread-6] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:02:49 [Thread-0] INFO  com.epam.multithreading.entity.Ship [[reload]] - ship unloading completed
+2022-11-14 16:04:16 [Thread-2] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-2
+2022-11-14 16:04:16 [Thread-0] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-0
+2022-11-14 16:04:16 [Thread-1] INFO  com.epam.multithreading.entity.Ship [[run]] - New ship thread is created. Thread-1
